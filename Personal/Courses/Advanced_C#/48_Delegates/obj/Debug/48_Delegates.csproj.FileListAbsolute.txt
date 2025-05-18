@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\48_Delegates\bin\Debug\48_Delegates.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\48_Delegates\bin\Debug\48_Delegates.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\48_Delegates\bin\Debug\48_Delegates.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\48_Delegates\obj\Debug\48_Delegates.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\48_Delegates\obj\Debug\48_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\48_Delegates\obj\Debug\48_Delegates.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\48_Delegates\obj\Debug\48_Delegates.pdb

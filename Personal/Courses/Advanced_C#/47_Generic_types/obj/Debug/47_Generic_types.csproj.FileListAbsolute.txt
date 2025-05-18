@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\47_Generic_types\bin\Debug\47_Generic_types.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\47_Generic_types\bin\Debug\47_Generic_types.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\47_Generic_types\bin\Debug\47_Generic_types.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\47_Generic_types\obj\Debug\47_Generic_types.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\47_Generic_types\obj\Debug\47_Generic_types.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\47_Generic_types\obj\Debug\47_Generic_types.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\47_Generic_types\obj\Debug\47_Generic_types.pdb

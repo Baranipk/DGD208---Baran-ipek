@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\22_Exceptions_Throw_keywod\bin\Debug\22_Exceptions_Throw_keywod.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\22_Exceptions_Throw_keywod\bin\Debug\22_Exceptions_Throw_keywod.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\22_Exceptions_Throw_keywod\bin\Debug\22_Exceptions_Throw_keywod.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\22_Exceptions_Throw_keywod\obj\Debug\22_Exceptions_Throw_keyword.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\22_Exceptions_Throw_keywod\obj\Debug\22_Exceptions_Throw_keyword.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\22_Exceptions_Throw_keywod\obj\Debug\22_Exceptions_Throw_keywod.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\22_Exceptions_Throw_keywod\obj\Debug\22_Exceptions_Throw_keywod.pdb

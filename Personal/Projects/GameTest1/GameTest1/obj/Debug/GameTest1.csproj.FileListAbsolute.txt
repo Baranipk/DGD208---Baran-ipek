@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\GameTest1\GameTest1\bin\Debug\GameTest1.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\GameTest1\GameTest1\bin\Debug\GameTest1.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\GameTest1\GameTest1\bin\Debug\GameTest1.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\GameTest1\GameTest1\obj\Debug\GameTest1.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\GameTest1\GameTest1\obj\Debug\GameTest1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\GameTest1\GameTest1\obj\Debug\GameTest1.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\GameTest1\GameTest1\obj\Debug\GameTest1.pdb

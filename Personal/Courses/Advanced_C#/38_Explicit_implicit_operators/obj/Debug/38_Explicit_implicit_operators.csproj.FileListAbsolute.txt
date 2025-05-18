@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\38_Explicit_implicit_operators\bin\Debug\38_Explicit_implicit_operators.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\38_Explicit_implicit_operators\bin\Debug\38_Explicit_implicit_operators.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\38_Explicit_implicit_operators\bin\Debug\38_Explicit_implicit_operators.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\38_Explicit_implicit_operators\obj\Debug\38_Explicit_implicit_operators.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\38_Explicit_implicit_operators\obj\Debug\38_Explicit_implicit_operators.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\38_Explicit_implicit_operators\obj\Debug\38_Explicit_implicit_operators.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\38_Explicit_implicit_operators\obj\Debug\38_Explicit_implicit_operators.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\24_Extension_methods\bin\Debug\24_Extension_methods.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\24_Extension_methods\bin\Debug\24_Extension_methods.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\24_Extension_methods\bin\Debug\24_Extension_methods.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\24_Extension_methods\obj\Debug\24_Extension_methods.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\24_Extension_methods\obj\Debug\24_Extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\24_Extension_methods\obj\Debug\24_Extension_methods.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\24_Extension_methods\obj\Debug\24_Extension_methods.pdb

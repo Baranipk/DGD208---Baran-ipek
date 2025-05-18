@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\16_Readonly_Keyword\bin\Debug\16_Readonly_Keyword.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\16_Readonly_Keyword\bin\Debug\16_Readonly_Keyword.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\16_Readonly_Keyword\bin\Debug\16_Readonly_Keyword.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\16_Readonly_Keyword\obj\Debug\16_Readonly_Keyword.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\16_Readonly_Keyword\obj\Debug\16_Readonly_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\16_Readonly_Keyword\obj\Debug\16_Readonly_Keyword.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\16_Readonly_Keyword\obj\Debug\16_Readonly_Keyword.pdb

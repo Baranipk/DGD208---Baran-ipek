@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\23_Exception_Handling_try_catch_finnaly\bin\Debug\23_Exception_Handling_try_catch_finnaly.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\23_Exception_Handling_try_catch_finnaly\bin\Debug\23_Exception_Handling_try_catch_finnaly.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\23_Exception_Handling_try_catch_finnaly\bin\Debug\23_Exception_Handling_try_catch_finnaly.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\23_Exception_Handling_try_catch_finnaly\obj\Debug\23_Exception_Handling_try_catch_finnaly.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\23_Exception_Handling_try_catch_finnaly\obj\Debug\23_Exception_Handling_try_catch_finnaly.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\23_Exception_Handling_try_catch_finnaly\obj\Debug\23_Exception_Handling_try_catch_finnaly.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\23_Exception_Handling_try_catch_finnaly\obj\Debug\23_Exception_Handling_try_catch_finnaly.pdb

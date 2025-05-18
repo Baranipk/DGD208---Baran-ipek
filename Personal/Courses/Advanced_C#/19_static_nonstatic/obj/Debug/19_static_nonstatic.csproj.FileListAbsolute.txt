@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\19_static_nonstatic\bin\Debug\19_static_nonstatic.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\19_static_nonstatic\bin\Debug\19_static_nonstatic.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\19_static_nonstatic\bin\Debug\19_static_nonstatic.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\19_static_nonstatic\obj\Debug\19_static_nonstatic.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\19_static_nonstatic\obj\Debug\19_static_nonstatic.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\19_static_nonstatic\obj\Debug\19_static_nonstatic.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\19_static_nonstatic\obj\Debug\19_static_nonstatic.pdb

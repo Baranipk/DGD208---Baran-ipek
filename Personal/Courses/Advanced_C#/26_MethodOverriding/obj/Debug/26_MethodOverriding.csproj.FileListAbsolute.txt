@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\26_MethodOverriding\bin\Debug\26_MethodOverriding.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\26_MethodOverriding\bin\Debug\26_MethodOverriding.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\26_MethodOverriding\bin\Debug\26_MethodOverriding.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\26_MethodOverriding\obj\Debug\26_MethodOverriding.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\26_MethodOverriding\obj\Debug\26_MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\26_MethodOverriding\obj\Debug\26_MethodOverriding.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\26_MethodOverriding\obj\Debug\26_MethodOverriding.pdb

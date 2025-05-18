@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\18_ref_out\bin\Debug\18_ref_out.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\18_ref_out\bin\Debug\18_ref_out.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\18_ref_out\bin\Debug\18_ref_out.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\18_ref_out\obj\Debug\18_ref_out.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\18_ref_out\obj\Debug\18_ref_out.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\18_ref_out\obj\Debug\18_ref_out.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\18_ref_out\obj\Debug\18_ref_out.pdb

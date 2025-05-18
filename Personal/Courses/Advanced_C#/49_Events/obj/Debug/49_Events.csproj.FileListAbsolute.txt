@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\49_Events\bin\Debug\49_Events.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\49_Events\bin\Debug\49_Events.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\49_Events\bin\Debug\49_Events.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\49_Events\obj\Debug\49_Events.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\49_Events\obj\Debug\49_Events.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\49_Events\obj\Debug\49_Events.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\49_Events\obj\Debug\49_Events.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\25_operator_overloading\bin\Debug\25_operator_overloading.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\25_operator_overloading\bin\Debug\25_operator_overloading.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\25_operator_overloading\bin\Debug\25_operator_overloading.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\25_operator_overloading\obj\Debug\25_operator_overloading.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\25_operator_overloading\obj\Debug\25_operator_overloading.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\25_operator_overloading\obj\Debug\25_operator_overloading.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\25_operator_overloading\obj\Debug\25_operator_overloading.pdb

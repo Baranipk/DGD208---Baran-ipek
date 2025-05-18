@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F181E0E-4414-45BB-AD86-00578685345E}|48_Delegates\\48_Delegates.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\c#\\advanced_c#_1\\48_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F181E0E-4414-45BB-AD86-00578685345E}|48_Delegates\\48_Delegates.csproj|solutionrelative:48_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F216A0-6CF9-4546-9233-874F60FA18DA}|49_Events\\49_Events.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\c#\\advanced_c#_1\\49_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F216A0-6CF9-4546-9233-874F60FA18DA}|49_Events\\49_Events.csproj|solutionrelative:49_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A6505D-3A42-4733-8F08-EDA4527971C6}|47_Generic_types\\47_Generic_types.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\c#\\advanced_c#_1\\47_generic_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A6505D-3A42-4733-8F08-EDA4527971C6}|47_Generic_types\\47_Generic_types.csproj|solutionrelative:47_generic_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051D324-1677-4B55-B6DB-96BEA6DF4FA9}|44_Non_Generic_Collections\\44_Non_Generic_Collections.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\c#\\advanced_c#_1\\44_non_generic_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051D324-1677-4B55-B6DB-96BEA6DF4FA9}|44_Non_Generic_Collections\\44_Non_Generic_Collections.csproj|solutionrelative:44_non_generic_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D47F-98B9-4C9E-97C9-FB14D2E6264D}|46_Enumerable ve IEnumerator_interfaces\\46_Enumerable ve IEnumerator_interfaces.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\c#\\advanced_c#_1\\46_enumerable ve ienumerator_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D47F-98B9-4C9E-97C9-FB14D2E6264D}|46_Enumerable ve IEnumerator_interfaces\\46_Enumerable ve IEnumerator_interfaces.csproj|solutionrelative:46_enumerable ve ienumerator_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF362677-BC1D-435F-A416-2D34E95DE71D}|45_Iteration_yield\\45_Iteration_yield.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\c#\\advanced_c#_1\\45_iteration_yield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF362677-BC1D-435F-A416-2D34E95DE71D}|45_Iteration_yield\\45_Iteration_yield.csproj|solutionrelative:45_iteration_yield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D85ED4-4F30-430A-9E2F-89263CB7F277}|43_Anonymous_types\\43_Anonymous_types.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\43_anonymous_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D85ED4-4F30-430A-9E2F-89263CB7F277}|43_Anonymous_types\\43_Anonymous_types.csproj|solutionrelative:43_anonymous_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467C8819-3B53-417D-B594-FB2A6497DA60}|Global\\Global.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\global\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467C8819-3B53-417D-B594-FB2A6497DA60}|Global\\Global.csproj|solutionrelative:global\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\49_Events\\Program.cs",
+              "RelativeDocumentMoniker": "49_Events\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\49_Events\\Program.cs",
+              "RelativeToolTip": "49_Events\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:18:12.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\48_Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "48_Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\48_Delegates\\Program.cs",
+              "RelativeToolTip": "48_Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:02:07.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\47_Generic_types\\Program.cs",
+              "RelativeDocumentMoniker": "47_Generic_types\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\47_Generic_types\\Program.cs",
+              "RelativeToolTip": "47_Generic_types\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:35:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\46_Enumerable ve IEnumerator_interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "46_Enumerable ve IEnumerator_interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\46_Enumerable ve IEnumerator_interfaces\\Program.cs",
+              "RelativeToolTip": "46_Enumerable ve IEnumerator_interfaces\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:30:14.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\45_Iteration_yield\\Program.cs",
+              "RelativeDocumentMoniker": "45_Iteration_yield\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\45_Iteration_yield\\Program.cs",
+              "RelativeToolTip": "45_Iteration_yield\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:16:30.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\44_Non_Generic_Collections\\Program.cs",
+              "RelativeDocumentMoniker": "44_Non_Generic_Collections\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\44_Non_Generic_Collections\\Program.cs",
+              "RelativeToolTip": "44_Non_Generic_Collections\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwLAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:21:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\43_Anonymous_types\\Program.cs",
+              "RelativeDocumentMoniker": "43_Anonymous_types\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\43_Anonymous_types\\Program.cs",
+              "RelativeToolTip": "43_Anonymous_types\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:13:13.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\Global\\Program.cs",
+              "RelativeDocumentMoniker": "Global\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Advanced_C#_1\\Global\\Program.cs",
+              "RelativeToolTip": "Global\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:06:04.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

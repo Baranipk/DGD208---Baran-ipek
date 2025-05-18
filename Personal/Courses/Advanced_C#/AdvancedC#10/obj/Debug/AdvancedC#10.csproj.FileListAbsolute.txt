@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\AdvancedC#10\bin\Debug\AdvancedC#10.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\AdvancedC#10\bin\Debug\AdvancedC#10.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\AdvancedC#10\bin\Debug\AdvancedC#10.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\AdvancedC#10\obj\Debug\AdvancedC#10.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\AdvancedC#10\obj\Debug\AdvancedC#10.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\AdvancedC#10\obj\Debug\AdvancedC#10.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\AdvancedC#10\obj\Debug\AdvancedC#10.pdb

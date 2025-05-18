@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\46_Enumerable ve IEnumerator_interfaces\bin\Debug\46_Enumerable ve IEnumerator_interfaces.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\46_Enumerable ve IEnumerator_interfaces\bin\Debug\46_Enumerable ve IEnumerator_interfaces.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\46_Enumerable ve IEnumerator_interfaces\bin\Debug\46_Enumerable ve IEnumerator_interfaces.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\46_Enumerable ve IEnumerator_interfaces\obj\Debug\46_Enumerable ve IEnumerator_interfaces.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\46_Enumerable ve IEnumerator_interfaces\obj\Debug\46_Enumerable ve IEnumerator_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\46_Enumerable ve IEnumerator_interfaces\obj\Debug\46_Enumerable ve IEnumerator_interfaces.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\46_Enumerable ve IEnumerator_interfaces\obj\Debug\46_Enumerable ve IEnumerator_interfaces.pdb

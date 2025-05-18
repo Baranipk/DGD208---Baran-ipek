@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\27_Polymorphism\bin\Debug\27_Polymorphism.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\27_Polymorphism\bin\Debug\27_Polymorphism.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\27_Polymorphism\bin\Debug\27_Polymorphism.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\27_Polymorphism\obj\Debug\27_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\27_Polymorphism\obj\Debug\27_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\27_Polymorphism\obj\Debug\27_Polymorphism.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\27_Polymorphism\obj\Debug\27_Polymorphism.pdb

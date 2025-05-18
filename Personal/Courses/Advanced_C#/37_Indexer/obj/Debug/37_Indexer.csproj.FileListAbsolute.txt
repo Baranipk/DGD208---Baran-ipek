@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\37_Indexer\bin\Debug\37_Indexer.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\37_Indexer\bin\Debug\37_Indexer.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\37_Indexer\bin\Debug\37_Indexer.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\37_Indexer\obj\Debug\37_Indexer.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\37_Indexer\obj\Debug\37_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\37_Indexer\obj\Debug\37_Indexer.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\37_Indexer\obj\Debug\37_Indexer.pdb

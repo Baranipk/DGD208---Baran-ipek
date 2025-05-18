@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\33_Abstraction_Class\bin\Debug\33_Abstraction_Class.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\33_Abstraction_Class\bin\Debug\33_Abstraction_Class.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\33_Abstraction_Class\bin\Debug\33_Abstraction_Class.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\33_Abstraction_Class\obj\Debug\33_Abstraction_Class.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\33_Abstraction_Class\obj\Debug\33_Abstraction_Class.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\33_Abstraction_Class\obj\Debug\33_Abstraction_Class.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\33_Abstraction_Class\obj\Debug\33_Abstraction_Class.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\32_Structs\bin\Debug\32_Structs.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\32_Structs\bin\Debug\32_Structs.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\32_Structs\bin\Debug\32_Structs.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\32_Structs\obj\Debug\32_Structs.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\32_Structs\obj\Debug\32_Structs.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\32_Structs\obj\Debug\32_Structs.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\32_Structs\obj\Debug\32_Structs.pdb

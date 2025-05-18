@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\41_Name_Spaces\bin\Debug\41_Name_Spaces.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\41_Name_Spaces\bin\Debug\41_Name_Spaces.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\41_Name_Spaces\bin\Debug\41_Name_Spaces.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\41_Name_Spaces\obj\Debug\41_Name_Spaces.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\41_Name_Spaces\obj\Debug\41_Name_Spaces.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\41_Name_Spaces\obj\Debug\41_Name_Spaces.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\41_Name_Spaces\obj\Debug\41_Name_Spaces.pdb

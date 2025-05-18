@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\44_Non_Generic_Collections\bin\Debug\44_Non_Generic_Collections.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\44_Non_Generic_Collections\bin\Debug\44_Non_Generic_Collections.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\44_Non_Generic_Collections\bin\Debug\44_Non_Generic_Collections.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\44_Non_Generic_Collections\obj\Debug\44_Non_Generic_Collections.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\44_Non_Generic_Collections\obj\Debug\44_Non_Generic_Collections.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\44_Non_Generic_Collections\obj\Debug\44_Non_Generic_Collections.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\44_Non_Generic_Collections\obj\Debug\44_Non_Generic_Collections.pdb

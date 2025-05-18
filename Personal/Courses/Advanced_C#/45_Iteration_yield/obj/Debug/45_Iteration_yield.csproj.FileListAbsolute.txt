@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\45_Iteration_yield\bin\Debug\45_Iteration_yield.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\45_Iteration_yield\bin\Debug\45_Iteration_yield.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\45_Iteration_yield\bin\Debug\45_Iteration_yield.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\45_Iteration_yield\obj\Debug\45_Iteration_yield.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\45_Iteration_yield\obj\Debug\45_Iteration_yield.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\45_Iteration_yield\obj\Debug\45_Iteration_yield.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\45_Iteration_yield\obj\Debug\45_Iteration_yield.pdb

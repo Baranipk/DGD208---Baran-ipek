@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\15_This_keyword\bin\Debug\15_This_keyword.exe.config
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\15_This_keyword\bin\Debug\15_This_keyword.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\15_This_keyword\bin\Debug\15_This_keyword.pdb
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\15_This_keyword\obj\Debug\15_This_keyword.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\15_This_keyword\obj\Debug\15_This_keyword.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\15_This_keyword\obj\Debug\15_This_keyword.exe
+C:\Users\PC\OneDrive\Masaüstü\C#\Advanced_C#_1\15_This_keyword\obj\Debug\15_This_keyword.pdb
