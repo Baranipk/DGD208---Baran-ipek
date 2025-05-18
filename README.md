@@ -1,8 +1,15 @@
-# DGD208---Baran-ipek
+# DGD208 — Baran İpek
 
-I Added Personal file for follow up studied  courses and projects while spring 2025. 
------------- Courses I studied -------------
-I ended bellow course 18.05.2025
-https://www.youtube.com/watch?v=45avhkGuXIE&list=PLa6kneNR-u-3MDmvdsRhLHYQ6fnCiqywb&index=1&ab_channel=GurkanKaraman
-General syntax source
-https://www.w3schools.com/cs/index.php
+## Personal File for Follow-Up on Studied Courses and Projects (Spring 2025)
+
+---
+
+### 📚 Courses I Studied
+
+- **Course Completed on:** 18.05.2025  
+- **Course Link:** [Gürkan Karaman - C# Programming Course](https://www.youtube.com/watch?v=45avhkGuXIE&list=PLa6kneNR-u-3MDmvdsRhLHYQ6fnCiqywb&index=1&ab_channel=GurkanKaraman)
+
+### 📖 General Syntax Source
+
+- [W3Schools C# Tutorial](https://www.w3schools.com/cs/index.php)
+
