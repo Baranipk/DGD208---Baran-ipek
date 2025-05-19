@@ -6,6 +6,8 @@
 
 ### 📚 Courses I Studied
 
+
+- **Course Started For General OOP on:** 13.05.2025 
 - **Course Completed on:** 18.05.2025  
 - **Course Link:** [Gürkan Karaman - C# Programming Course](https://www.youtube.com/watch?v=45avhkGuXIE&list=PLa6kneNR-u-3MDmvdsRhLHYQ6fnCiqywb&index=1&ab_channel=GurkanKaraman)
 - **Currently Re-Watching GamePrograming 1 Lessons started at:** 18.05.2025
