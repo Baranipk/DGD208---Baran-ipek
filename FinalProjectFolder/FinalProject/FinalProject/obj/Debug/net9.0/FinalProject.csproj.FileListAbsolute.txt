@@ -1,0 +1,15 @@
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\FinalProject.AssemblyInfoInputs.cache
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\FinalProject.AssemblyInfo.cs
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\FinalProject.sourcelink.json
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\bin\Debug\net9.0\FinalProject.exe
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\bin\Debug\net9.0\FinalProject.deps.json
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\bin\Debug\net9.0\FinalProject.runtimeconfig.json
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\bin\Debug\net9.0\FinalProject.dll
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\bin\Debug\net9.0\FinalProject.pdb
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\FinalProject.dll
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\refint\FinalProject.dll
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\FinalProject.pdb
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\FinalProject.genruntimeconfig.cache
+C:\DGD208\DGD208---Baran-ipek\FinalProjectFolder\FinalProject\FinalProject\obj\Debug\net9.0\ref\FinalProject.dll
