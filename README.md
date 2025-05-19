@@ -21,5 +21,5 @@
 
 ### 💾 Fınal Project
 
-- **Committed first update** 20.05.2025
+- **Committed first update** 20.05.2025 00:45 GMT +3
 
