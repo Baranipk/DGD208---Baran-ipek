@@ -1,0 +1,10 @@
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\bin\Debug\Form1_Calculator.exe.config
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\bin\Debug\Form1_Calculator.exe
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\bin\Debug\Form1_Calculator.pdb
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\obj\Debug\Form1_Calculator.csproj.AssemblyReference.cache
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\obj\Debug\Form1_Calculator.Properties.Resources.resources
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\obj\Debug\Form1_Calculator.csproj.GenerateResource.cache
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\obj\Debug\Form1_Calculator.csproj.CoreCompileInputs.cache
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\obj\Debug\Form1_Calculator.exe
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\obj\Debug\Form1_Calculator.pdb
+C:\DGD208\DGD208---Baran-ipek\Personal\Projects\Form1_Calculator\Form1_Calculator\obj\Debug\Form1_Calculator.Form1.resources

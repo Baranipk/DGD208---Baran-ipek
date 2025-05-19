@@ -1,0 +1,15 @@
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\bin\Debug\net9.0\GamePrograming1.exe
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\bin\Debug\net9.0\GamePrograming1.deps.json
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\bin\Debug\net9.0\GamePrograming1.runtimeconfig.json
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\bin\Debug\net9.0\GamePrograming1.dll
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\bin\Debug\net9.0\GamePrograming1.pdb
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\GamePrograming1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\GamePrograming1.AssemblyInfoInputs.cache
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\GamePrograming1.AssemblyInfo.cs
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\GamePrograming1.csproj.CoreCompileInputs.cache
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\GamePrograming1.sourcelink.json
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\GamePrograming1.dll
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\refint\GamePrograming1.dll
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\GamePrograming1.pdb
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\GamePrograming1.genruntimeconfig.cache
+C:\DGD208\DGD208---Baran-ipek\Personal\Courses\GamePrograming_1_2024_DGD203\Week3_1\GamePrograming1\obj\Debug\net9.0\ref\GamePrograming1.dll
