@@ -1,6 +1,6 @@
 # DGD208 — Baran İpek
 
-## Personal File for Follow-Up on Studied Courses and Projects While i working at the final project (Spring 2025)
+## Personal File for Follow-Up on Studied Courses and Projects While i working for the final project (Spring 2025)
 
 ---
 
