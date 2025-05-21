@@ -1,9 +1,15 @@
-using GamePrograming1.Engines;
-
 namespace GamePrograming1;
-
 public class Game
 {
+    #region REFERENCES
+    
+    private Player _player;
+    private GameMap _map;
+    private Commands _commands;
+    private Inventory _inventory;
+        
+    #endregion
+    
     #region Variables
     
     #region Constant Variables
@@ -13,19 +19,23 @@ public class Game
     
     private const string NewCommandSeparator = "-------------------------";
     
-    #endregion
-
     private static readonly Vector2Int DefaultStartingCoordinates = new Vector2Int {X = 0, Y = 0};
     
-    private Player _player;
-    private GameMap _map;
-
+    #endregion
+    
+    #region Game State Variables
     //GameState var.
     
     private bool _isRunning;
     
-    //Command var.
-    private string _CurrentCommand;
+     #endregion
+    
+    #region Command Variables
+     //Command var.
+    
+    private string _currentCommand;
+    
+    #endregion
     
     #endregion
     
@@ -33,7 +43,10 @@ public class Game
     
     public Game()
     {
-        _player = new Player();
+        GenerateMap();
+        GenerateInventory();
+        GenerateStartingInstances();
+        
     }
     #endregion
     
@@ -49,9 +62,20 @@ public class Game
         GameLoop();
     }
 
+    private void GenerateStartingInstances()
+    {
+        _commands = new Commands(this, _map);
+        _player = new Player();
+    }
+
     private void GenerateMap()
     {
         _map = new GameMap(MapWidth, MapHeight,DefaultStartingCoordinates);
+    }
+
+    private void GenerateInventory()
+    {
+        _inventory = new Inventory(this);
     }
 
     private void GetPlayerName()
@@ -85,7 +109,6 @@ public class Game
         {
             RecieveCommand();
             ApplyCommand();
-            CheckIfGameOver();
         }
     }
 
@@ -93,25 +116,14 @@ public class Game
     {
         Console.WriteLine(NewCommandSeparator);
         Console.Write("What do you want to do?: ");
-        _CurrentCommand = Console.ReadLine();
+        _currentCommand = Console.ReadLine();
     }
 
     private void ApplyCommand()
     {
-        if (ExitCommandGiven())
-        {
-            _isRunning = false;
-            return;
-        }
-        
-        ProcessMapCommand();
-        ProcessInventoryCommand();
+        _commands.ExecuteCommand(_currentCommand);
     }
-
-    private void CheckIfGameOver()
-    {
-        
-    }
+    
 
     private string CurrentLocationDescription()
     {
@@ -119,22 +131,9 @@ public class Game
         return currentLocation.Description;
     }
 
-    private bool ExitCommandGiven()
+    public void GiveExitCommand()
     {
-        return _CurrentCommand.ToLower() == "exit";
-    }
-
-    private void ProcessMapCommand()
-    {
-        _map.MovePlayer(_CurrentCommand);
-        Vector2Int playerPosition = _map.GetPlayerPosition();
-        Console.Write($"Your current position is {playerPosition.X},{playerPosition.Y}");
-        Console.WriteLine(CurrentLocationDescription());
-    }
-
-    private void ProcessInventoryCommand()
-    {
-        
+        _isRunning = false;
     }
     
     #endregion

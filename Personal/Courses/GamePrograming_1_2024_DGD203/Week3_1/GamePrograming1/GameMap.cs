@@ -5,8 +5,8 @@ public class GameMap
 {
     #region Variables
 
-    private const int DefaultWidth = 5;
-    private const int DefaultHeight = 5;
+    private const int DefaultWidth = 8;
+    private const int DefaultHeight = 8;
     
     private readonly int _width;
     private readonly int _height;
@@ -75,7 +75,7 @@ public class GameMap
     
     public Vector2Int GetPlayerPosition() => _playerPosition;
 
-    public bool MovePlayer(string direction)
+    public bool MovePlayer(Direction direction)
         {
             var newPosition = CalculateNewPosition(direction);
 
@@ -87,22 +87,22 @@ public class GameMap
             return false;
         }
 
-    private Vector2Int CalculateNewPosition(string direction)
+    private Vector2Int CalculateNewPosition(Direction direction)
     {
         Vector2Int newPosition = new Vector2Int();
         newPosition = _playerPosition;
-        switch (direction.ToLower())
+        switch (direction)
         {
-            case "north":
+            case Direction.North:
                 newPosition.Y += 1;
                 break;
-            case "south":
+            case Direction.South:
                 newPosition.Y -= 1;
                 break;
-            case "west":
+            case Direction.West:
                 newPosition.X -= 1;
                 break;
-            case "east":
+            case Direction.East:
                 newPosition.X += 1;
                 break;
             default:
@@ -148,4 +148,24 @@ public class GameMap
         }
         
     #endregion
+}
+
+public enum Direction
+{
+    East,
+    North,
+    West,
+    South,
+    NorthEast,
+    NorthWest,
+    SouthEast,
+    SouthWest,
+    Up,
+    Down,
+    Inside,
+    Outside,
+    Right,
+    Forward,
+    Left,
+    Back
 }
