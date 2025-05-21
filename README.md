@@ -14,6 +14,8 @@
 - **ISU Fall 2024 - DGD203 Week07 Watched** 19.05.2025
 - **Committed 1-7 weeks projects Abouth GameProgramming 1 Lesson** 19.05.2025
 ( I scripted from watching and replying lessons )
+- **Committed 9-10 weeks projects Abouth GameProgramming 1 Lesson** 21.05.2025
+( I scripted from watching and replying lessons )
 
  
 ### 📖 General Syntax Source
