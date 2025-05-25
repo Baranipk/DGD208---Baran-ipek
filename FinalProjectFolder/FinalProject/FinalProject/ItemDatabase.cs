@@ -238,4 +238,11 @@ public static class ItemDatabase
             Duration = 5.0f  // Takes time to get comfortable
         }
     };
+
+     static public List<Item> GetItemData(PetType petType)
+    {
+        return AllItems
+            .Where(item => item.CompatibleWith.Contains(petType))
+            .ToList();
+    }
 }

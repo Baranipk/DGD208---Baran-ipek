@@ -3,6 +3,12 @@ namespace FinalProject;
 public class Game
 {
     private bool _isRunning;
+
+
+    public Game()
+    {
+        Initialize();
+    }
     
     public async Task GameLoop()
     {
@@ -27,6 +33,10 @@ public class Game
     
     private void Initialize()
     {
+        List<string> test = new List<string>{"dune","1984","Kolpaçino"};
+        Menu<string> menu = new Menu<string>("Film seç",test,film =>film);
+        string secilenFilm = menu.ShowAndGetSelection();
+        Console.WriteLine($"Seçilen film : {secilenFilm}");
         
     }
     
